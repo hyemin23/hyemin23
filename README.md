@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?text=HyeminPark&animation=twinkling&fontColor=fff&type=waving&height=150&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?text=HyeminPark&animation=twinkling&fontColor=fff&type=waving&height=180&fontAlignY=30)
 
 <p>
   <br/>
@@ -80,4 +80,4 @@
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?section=footer&height=180&&type=waving)
