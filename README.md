@@ -51,8 +51,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F9AB00?style=flat-square&logo=Apache%20Tomcat&logoColor=black&Text%20Color=white"/>
   </a>
   
- <p align="center">
- <h3>🦔 My profile 🦔<h3>
+ <p align="center" font-weight="700">
+ 🦔 My profile 🦔
 </p>
 
 <a href="https://2ham-s.tistory.com/">
