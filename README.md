@@ -70,7 +70,7 @@
 
 <br/>  
 <p align="center">
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyemin23%2Fhit-counter&count_bg=%239F53FF&title_bg=%23B479FF&icon=github.svg&icon_color=%23FBFBFB&title=hits&edge_flat=false"/></a>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyemin23%2Fhit-counter&count_bg=%23B377FF&title_bg=%23B479FF&icon=github.svg&icon_color=%23FBFBFB&title=visited+++%F0%9F%96%90+&edge_flat=false"/></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&height=160&&type=waving) 
