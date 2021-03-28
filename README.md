@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </a>
 <!-- javaScript -->
 <a href="https://2ham-s.tistory.com/">
-  <img src="https://img.shields.io/badge/JavaScript-FFCC33?style=flat-square&logo=javaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFCB05?style=flat-square&logo=javaScript&logoColor=white"/>
   </a>
 <!-- css3 -->
 <a href="https://2ham-s.tistory.com/">
