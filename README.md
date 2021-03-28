@@ -1,4 +1,4 @@
-### Hi there 👋
+## 🕹 Tech Stack 🕹
 
 <!--
 **hyemin23/hyemin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://2ham-s.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://2ham-s.tistory.com/"
-/></a>
-
   <!-- React -->
 <a href="https://2ham-s.tistory.com/">
   <img src="https://img.shields.io/badge/React-37BEFF?style=flat-square&logo=React&logoColor=white&Color=white"/>
@@ -56,4 +52,21 @@ Here are some ideas to get you started:
   </a>
   
   
+### 🦔 My profile 🦔
+
+<a href="https://2ham-s.tistory.com/">
+  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white" />
+</a>
+
+<a href="http://poklu3.cafe24.com/developer.html">
+  <img src="https://img.shields.io/badge/Portfolio-11B48A?style=flat-square&logo=Vimeo&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/poklu265/">
+  <img src="https://img.shields.io/badge/Instagram-11B48A?style=flat-square&logo=Vimeo&logoColor=white" />
+</a>
+
+
+
+
 
