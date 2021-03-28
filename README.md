@@ -17,11 +17,28 @@ Here are some ideas to get you started:
 
 <a href="https://2ham-s.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://2ham-s.tistory.com/"
 /></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-FFCD00?style=flat-square&logo=javaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-4285F4?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-654FF0?style=flat-square&logo=MySQL&logoColor=white"/>
+<a href="https://2ham-s.tistory.com/">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  </a>
+<a href="https://2ham-s.tistory.com/">
+  <img src="https://img.shields.io/badge/JavaScript-FFCD00?style=flat-square&logo=javaScript&logoColor=white"/>
+  </a>
+<a href="https://2ham-s.tistory.com/">
+  <img src="https://img.shields.io/badge/CSS3-4285F4?style=flat-square&logo=CSS3&logoColor=white"/>
+  </a>
+<a href="https://2ham-s.tistory.com/">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  </a>
+<a href="https://2ham-s.tistory.com/">
+  <img src="https://img.shields.io/badge/MySQL-654FF0?style=flat-square&logo=MySQL&logoColor=white"/>
+  </a>
+<a href="https://2ham-s.tistory.com/">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+  </a>
+<a href="https://2ham-s.tistory.com/">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  </a>
+<a href="https://2ham-s.tistory.com/">
+  <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
+  </a>
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
