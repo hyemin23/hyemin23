@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 <a href="https://2ham-s.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://2ham-s.tistory.com/"
 /></a>
+
 <a href="https://2ham-s.tistory.com/">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-3955A3?style=flat-square&logo=java&logoColor=white"/>
   </a>
 <a href="https://2ham-s.tistory.com/">
   <img src="https://img.shields.io/badge/JavaScript-FFCD00?style=flat-square&logo=javaScript&logoColor=white"/>
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-4285F4?style=flat-square&logo=CSS3&logoColor=white"/>
   </a>
 <a href="https://2ham-s.tistory.com/">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   </a>
 <a href="https://2ham-s.tistory.com/">
   <img src="https://img.shields.io/badge/MySQL-654FF0?style=flat-square&logo=MySQL&logoColor=white"/>
