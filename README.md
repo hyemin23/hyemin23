@@ -55,9 +55,9 @@ Here are some ideas to get you started:
   </a>
   </p>
  
- <br\>
- <br\>
- <br\>
+ <br/>
+ <br/>
+ <br/>
  <h3  align="center">🦔 My profile 🦔</h3>
 
 <p align="center">
