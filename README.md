@@ -41,8 +41,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-4285F4?style=flat-square&logo=CSS3&logoColor=white"/>
   </a>
   </p>
-  <br/>
-  
   <p align="center">
   <!-- SpringBoot -->
 <a href="https://2ham-s.tistory.com/">
