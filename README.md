@@ -39,7 +39,7 @@
       </a>
       <!-- Oracle -->
     <a href="https://2ham-s.tistory.com/">
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Oracle-FF4500?style=flat-square&logo=Oracle&logoColor=white"/>
       </a>
       <!-- Apache -->
       <a href="https://2ham-s.tistory.com/">
