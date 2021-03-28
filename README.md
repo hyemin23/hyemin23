@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   </a>
 <!-- javaScript -->
 <a href="https://2ham-s.tistory.com/">
-  <img src="https://img.shields.io/badge/JavaScript-FFE01B?style=flat-square&logo=javaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FF9900?style=flat-square&logo=javaScript&logoColor=white"/>
   </a>
   <!-- Jquery -->
 <a href="https://2ham-s.tistory.com/">
