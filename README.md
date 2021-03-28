@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Hyemin%20Park&animation=twinkling&fontColor=fff&type=waving&height=160&fontAlignY=30&fontSize=40)
 
 <p>
-  <h3  align="center">🕹 Tech Stack 🕹</h3>
+  <h3  align="center">🕹&nbsp;Tech Stack&nbsp;🕹</h3>
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 </p>
 
 
-<h3  align="center"> 📷 Traces of my life 📷 </h3>
+<h3  align="center"> 📷 &nbsp; Traces of my life &nbsp; 📷 </h3>
 
 <p align="center">
   <a href="https://2ham-s.tistory.com/">
