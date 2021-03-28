@@ -80,4 +80,4 @@
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&height=180&&type=waving)
+<!-- ![footer](https://capsule-render.vercel.app/api?section=footer&height=180&&type=waving) -->
