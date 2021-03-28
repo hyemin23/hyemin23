@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <a href="https://2ham-s.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://2ham-s.tistory.com/"
 /></a>
-<img src="https://img.shields.io/badge/#007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
