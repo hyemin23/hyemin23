@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
   <!-- React -->
 <a href="https://2ham-s.tistory.com/">
   <img src="https://img.shields.io/badge/React-37BEFF?style=flat-square&logo=React&logoColor=white&Color=white"/>
@@ -51,11 +52,11 @@ Here are some ideas to get you started:
   <a href="https://2ham-s.tistory.com/">
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F9AB00?style=flat-square&logo=Apache%20Tomcat&logoColor=black&Text%20Color=white"/>
   </a>
-  
+  </p>
  
  <h3  align="center">🦔 My profile 🦔</h3>
 
-
+<p align="center">
 <a href="https://2ham-s.tistory.com/">
   <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white" />
 </a>
@@ -67,7 +68,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/poklu265/">
   <img src="https://img.shields.io/badge/Instagram-11B48A?style=flat-square&logo=Vimeo&logoColor=white" />
 </a>
-
+</p>
 
 
 
