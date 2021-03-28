@@ -1,9 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?text=Hyemin%20Park&animation=twinkling&fontColor=fff&type=waving&height=160&fontAlignY=30&fontSize=40)
-
 <p>
-  <br/>
-  <br/>
   <br/>
 </p>
 
@@ -55,11 +52,13 @@
 <p>
     <br/>
     <br/>
-    <br/>
 </p>
 
 
-<h3  align="center">🦔 My profile 🦔</h3>
+<h3  align="center"> Traces of my life 🦔</h3>
+<p>
+  <br/>
+<p/>
 
 <p align="center">
   <a href="https://2ham-s.tistory.com/">
