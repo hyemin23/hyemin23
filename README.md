@@ -2,7 +2,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 <h3  align="center">🕹 Tech Stack 🕹</h3>
 <br/>
 <br/>
@@ -41,7 +40,7 @@ Here are some ideas to get you started:
 <a href="https://2ham-s.tistory.com/">
   <img src="https://img.shields.io/badge/CSS3-4285F4?style=flat-square&logo=CSS3&logoColor=white"/>
   </a>
-  <br\>
+  <br/>
   <!-- SpringBoot -->
 <a href="https://2ham-s.tistory.com/">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
