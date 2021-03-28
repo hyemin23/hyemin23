@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyemin%20Park&fontSize=90&fontColor=white&fontAlign=center" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Hyemin%20Park&fontSize=50&fontColor=white&fontAlign=right" />
 
 <p>
   <br/>
@@ -81,3 +81,5 @@
 
 
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
