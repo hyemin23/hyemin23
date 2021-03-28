@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <a href="https://2ham-s.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://2ham-s.tistory.com/"
 /></a>
 
+  <!-- React -->
+<a href="https://2ham-s.tistory.com/">
+  <img src="https://img.shields.io/badge/React-37BEFF?style=flat-square&logo=React&logoColor=white&Color=white"/>
+  </a>
 <!-- java -->
 <a href="https://2ham-s.tistory.com/">
   <img src="https://img.shields.io/badge/Java-3955A3?style=flat-square&logo=java&logoColor=white"/>
@@ -25,6 +29,10 @@ Here are some ideas to get you started:
 <!-- javaScript -->
 <a href="https://2ham-s.tistory.com/">
   <img src="https://img.shields.io/badge/JavaScript-FFE01B?style=flat-square&logo=javaScript&logoColor=white"/>
+  </a>
+  <!-- Jquery -->
+<a href="https://2ham-s.tistory.com/">
+  <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white&Color=white"/>
   </a>
 <!-- css3 -->
 <a href="https://2ham-s.tistory.com/">
@@ -42,17 +50,10 @@ Here are some ideas to get you started:
 <a href="https://2ham-s.tistory.com/">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   </a>
-  <!-- React -->
-<a href="https://2ham-s.tistory.com/">
-  <img src="https://img.shields.io/badge/React-37BEFF?style=flat-square&logo=React&logoColor=white&Color=white"/>
-  </a>
-  <!-- SpringBoot -->
-<a href="https://2ham-s.tistory.com/">
-  <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white&Color=white"/>
-  </a>
-  
-  
+  <!-- Apache -->
   <a href="https://2ham-s.tistory.com/">
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F9AB00?style=flat-square&logo=Apache%20Tomcat&logoColor=black&Text%20Color=white"/>
   </a>
+  
+  
 
