@@ -6,11 +6,6 @@
 <p>
 <h3  align="center">🕹 Tech Stack 🕹</h3>
 </p>
-
-<p>
-<br/>
-<br/>
-</p>
 <p>
 </br>
 </p>
