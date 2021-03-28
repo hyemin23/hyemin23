@@ -52,7 +52,7 @@
 </p>
 
 
-<h3  align="center"> Traces of my life 🦔</h3>
+<h3  align="center"> 📷 Traces of my life 📷 </h3>
 
 <p align="center">
   <a href="https://2ham-s.tistory.com/">
