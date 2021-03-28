@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   </a>
   <!-- React -->
 <a href="https://2ham-s.tistory.com/">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/React-37BEFF?style=flat-square&logo=React&logoColor=white&Color=white"/>
   </a>
   <!-- SpringBoot -->
 <a href="https://2ham-s.tistory.com/">
