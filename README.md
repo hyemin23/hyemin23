@@ -1,4 +1,4 @@
-## 🕹 Tech Stack 🕹
+### 🕹 Tech Stack 🕹
 
 <!--
 **hyemin23/hyemin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,8 +51,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F9AB00?style=flat-square&logo=Apache%20Tomcat&logoColor=black&Text%20Color=white"/>
   </a>
   
-  
+ <p align="center">
 ### 🦔 My profile 🦔
+</p>
 
 <a href="https://2ham-s.tistory.com/">
   <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white" />
