@@ -35,7 +35,7 @@
       </a>
       <!-- MySQL -->
     <a href="https://2ham-s.tistory.com/">
-      <img src="https://img.shields.io/badge/MySQL-005FF9?style=flat-square&logo=MySQL&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-0088FF?style=flat-square&logo=MySQL&logoColor=white"/>
       </a>
       <!-- Oracle -->
     <a href="https://2ham-s.tistory.com/">
