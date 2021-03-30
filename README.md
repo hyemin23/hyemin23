@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Hyemin%20Park&animation=twinkling&fontColor=fff&type=waving&height=160&fontAlignY=30&fontSize=55)
 
 <p>
-  <h3  align="center">🕹&nbsp;Tech Stack&nbsp;</h3>
+  <h3  align="center">🕹&nbsp;Tech Stack&nbsp;🕹</h3>
 </p>
 
 <p align="center">
