@@ -10,6 +10,14 @@
   <a href="http://poklu3.cafe24.com/developer.html">
     <img src="https://img.shields.io/badge/React-37BEFF?style=flat-square&logo=React&logoColor=white&Color=white"/>
     </a>
+  <!-- Next.js -->
+  <a href="http://poklu3.cafe24.com/developer.html">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white&Color=white"/>
+    </a>
+  <!-- TypeScript -->
+  <a href="http://poklu3.cafe24.com/developer.html">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&Color=white"/>
+    </a>
   <!-- Vue -->
   <a href="http://poklu3.cafe24.com/developer.html">
     <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&Color=white"/>
