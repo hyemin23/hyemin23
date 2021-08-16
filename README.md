@@ -76,8 +76,13 @@
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white" />
   </a>
 
+  <a href="https://www.notion.so/hyemin23/SHT-70b702e1eeaf453f90235132e03517f0">
+    <img src="https://img.shields.io/badge/%20Notion portfolio-000000?style=flat-square&logo=Notion&logoColor=white" />
+  </a>
+  
+  
   <a href="http://poklu3.cafe24.com/developer.html">
-    <img src="https://img.shields.io/badge/Portfolio-FF6900?style=flat-square&logo=The%20Conversation&logoColor=white" />
+    <img src="https://img.shields.io/badge/Web portfolio-FF6900?style=flat-square&logo=The%20Conversation&logoColor=white" />
   </a>
 
   <a href="https://www.instagram.com/poklu265/">
