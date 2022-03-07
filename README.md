@@ -85,7 +85,7 @@
     <img src="https://img.shields.io/badge/Web portfolio-FF6900?style=flat-square&logo=The%20Conversation&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/poklu265/">
+  <a href="https://www.instagram.com/dev_xion/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
   <span>&nbsp;👈</span>
